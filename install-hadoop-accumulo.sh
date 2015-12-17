@@ -20,3 +20,5 @@ mkdir /usr/hdfs/data
 mkdir /usr/hdfs/name
 
 chmod -R 777 /usr/hdfs
+
+systemctl stop firewalld

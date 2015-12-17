@@ -9,8 +9,8 @@ so they can explore HDFS and learn how the pieces connect.
 
 
 **Pre Reqs**
-* VirtualBox
-* Vagrant
+* VirtualBox (https://www.virtualbox.org/wiki/Downloads)
+* Vagrant (https://www.vagrantup.com/)
 
 **How to Use**
 * Install VirtualBox
