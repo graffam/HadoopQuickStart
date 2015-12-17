@@ -26,5 +26,5 @@ so they can explore HDFS and learn how the pieces connect.
   - cat ~/.ssh/id_dsa.pub >> ~/.ssh/authorized_keys
 * format the name node with: hadoop namenode -format
 * start dfs with: start-dfs.sh
-* Confirm namenode started with command: jps
+* Confirm namenode started with command 'jps' or by visiting the hdfs website outside of the vm located at 127.0.0.1:50070
 * PROFIT!
