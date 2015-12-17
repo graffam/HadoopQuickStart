@@ -9,13 +9,13 @@ so they can explore HDFS and learn how the pieces connect.
 
 
 **Pre Reqs**
-VirtualBox
-Vagrant
+* VirtualBox
+* Vagrant
 
 **How to Use**
 * Install VirtualBox
 * Install vagrant
-* use the command "vagrant up"
+* use the command "vagrant up" in the root folder of this project
 * Wait a bit....
 * When vagrant up is finished, ssh into the newly created virtual machine
   - address: 127.0.0.1
